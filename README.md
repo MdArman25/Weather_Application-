@@ -22,9 +22,12 @@ This is a weather application that allows users to check the current weather and
    ```bash
    git clone https://github.com/yourusername/your-repository.git
 2. Navigate into the project directory:
-  cd your-repository
+   ```bash 
+   cd your-repository
 3. Install dependencies:
-   npm install
+   ```bash 
+    npm install
 4. Start the development server:
+ ```bash
    npm start or npm run dev
 
